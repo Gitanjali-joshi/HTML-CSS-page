@@ -1,0 +1,79 @@
+body{
+    background-color:gainsboro;
+    color:#555;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+    font-size: 25px;
+    line-height:1.7em;
+    margin:0%;
+}
+      #main-header{
+    background-color:coral;
+    color:cornsilk;
+    text-align: center;
+    }
+      .container{
+        width:80%;
+        overflow:hidden;
+        margin: auto;
+        
+     }
+     #navbar{
+        text-transform: uppercase;
+         background-color:black;
+         color:wheat;
+     }
+     #navbar li{
+         display:inline;
+         padding-left: 10px;
+         
+         
+     }
+     #navbar a{
+        text-decoration:none;   /*doubt effect is none*/
+        font-size: 25px;
+    
+        color:white;
+        padding-left: 15px;
+
+        
+     }
+     #showcase{
+         background-image: url('new_bg2.jpg');
+          background-position: right left;
+         background-size: 200ex;
+         min-height: 300px;
+         }
+    #showcase h1{
+        font-size: 30px;
+         font-weight: normal;
+         color:blanchedalmond;
+         
+    }
+    #main{
+        width:70%;
+        float:left;
+        font-weight: bold;
+        box-sizing: border-box;
+       }
+  
+
+    #sidebar{
+        width: 30%;
+        float:right;
+         box-sizing: border-box;
+         background-color:black;
+        color:burlywood;   
+        padding-left: 2.5ex;
+        padding-right: 2.5ex; }
+
+   #main-footer{
+
+   Background-color:rgb(43, 39, 39);
+ color:blanchedalmond;
+   padding: 10px;
+   text-align: center;
+   
+     }
+
+    
